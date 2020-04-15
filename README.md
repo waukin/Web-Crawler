@@ -8,7 +8,7 @@
 * Selenium
 
 # Pchome_Crawler
-透過requests對pchome發送GET請求，並將json格式字串轉換成python物件
+透過requests對PChome發送GET請求，並將json格式字串轉換成python物件
 
 ## Libraries
 * requests
